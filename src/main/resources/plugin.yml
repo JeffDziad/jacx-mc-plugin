@@ -1,0 +1,10 @@
+name: Jacx
+version: ${project.version}
+main: me.jeffdziad.jacx.Jacx
+api-version: 1.17
+authors: [ JeffDziad ]
+description: Essential plugin for Jacx Minecraft Servers.
+commands:
+  position:
+    description: Locate players by username.
+    aliases: pos
